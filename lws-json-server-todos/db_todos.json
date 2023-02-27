@@ -1,0 +1,62 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Learn Vanilla JavaScript",
+      "completed": false,
+      "color": "yellow"
+    },
+    {
+      "id": 2,
+      "text": 2,
+      "completed": true,
+      "color": "green"
+    },
+    {
+      "id": 3,
+      "text": 3,
+      "completed": true,
+      "color": "yellow"
+    },
+    {
+      "text": 4,
+      "completed": true,
+      "id": 4,
+      "color": "red"
+    },
+    {
+      "text": 5,
+      "completed": true,
+      "id": 5,
+      "color": "yellow"
+    },
+    {
+      "text": 6,
+      "completed": true,
+      "id": 6,
+      "color": "red"
+    },
+    {
+      "text": "Learn Redux Toolkit",
+      "completed": true,
+      "id": 7
+    },
+    {
+      "text": "Test",
+      "completed": true,
+      "id": 8,
+      "color": "green"
+    },
+    {
+      "text": "hdjhdjhdjsdh",
+      "completed": true,
+      "id": 9
+    },
+    {
+      "text": "learn React",
+      "completed": true,
+      "id": 10,
+      "color": "green"
+    }
+  ]
+}
